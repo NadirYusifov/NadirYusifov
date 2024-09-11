@@ -1,6 +1,7 @@
 <h1 align="center">Salam Aleykum I'm Nadir Yusifov</h1>
 <h3 align="center">I'm Frontend Developer from Azerbaijan</h3>
 
+[![](https://visitcount.itsvg.in/api?id=NadirYusifov&icon=0&color=3)](https://visitcount.itsvg.in)
 
 - 👯 I’m looking to collaborate on **PrimePay**
 
@@ -17,15 +18,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=NadirYusifov&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NadirYusifov&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadirYusifov&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=NadirYusifov&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nadir Yusifov&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Nadir Yusifov&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
