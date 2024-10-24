@@ -3,8 +3,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=NadirYusifov&icon=2&color=3)](https://visitcount.itsvg.in)
 
-- 👯 I’m looking to collaborate on **PrimePay**
-
 - 👨‍💻 All of my projects are available at <a href="https://github.com/NadirYusifov" target="blank">NadirYusifov</a>
 
 - 📫 How to reach me **nadiryusifov70@gmail.com**
