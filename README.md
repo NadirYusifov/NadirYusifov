@@ -1,7 +1,7 @@
 <h1 align="center">Salam Aleykum I'm Nadir Yusifov</h1>
 <h3 align="center">I'm Frontend Developer from Azerbaijan</h3>
 
-![github-header-image-2](https://github.com/user-attachments/assets/e698aa5c-1e90-4c20-bae6-9aa4abc95db9)
+![1735347096265392032696015920627](https://github.com/user-attachments/assets/61df841d-80e0-4b03-8bc6-cc3c6d5d6ad8)
 
 [![](https://visitcount.itsvg.in/api?id=NadirYusifov&icon=2&color=3)](https://visitcount.itsvg.in)
 
