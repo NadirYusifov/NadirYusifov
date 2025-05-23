@@ -2,7 +2,7 @@
 
 ![Figur Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/f81b2389-0bfb-435f-bcb9-776babda1df3)
 
-<h3 align="center">I'm Frontend Developer from Azerbaijan</h3>
+<h3 align="center">I'm Front-End Developer from Azerbaijan</h3>
 
 [![](https://visitcount.itsvg.in/api?id=NadirYusifov&icon=2&color=3)](https://visitcount.itsvg.in)
 
