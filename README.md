@@ -6,9 +6,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=NadirYusifov&icon=2&color=3)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/NadirYusifov" target="blank">NadirYusifov</a>
+- 🗂️ All of my projects are available at <a href="https://github.com/NadirYusifov" target="blank">NadirYusifov</a>
 
-- 📫 How to reach me **nadiryusifov70@gmail.com**
+- 📧 How to reach me **nadiryusifov70@gmail.com**
 
 
 
