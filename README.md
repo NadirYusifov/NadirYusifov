@@ -1,6 +1,7 @@
 <h1 align="center">Salam Aleykum I'm Nadir Yusifov</h1>
 
-![Figur Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/f81b2389-0bfb-435f-bcb9-776babda1df3)
+<img width="1584" height="396" alt="Nadir Yusifov" src="https://github.com/user-attachments/assets/4fbf8800-5640-42aa-8be2-dba4bb9d8abc" />
+
 
 <h3 align="center">I'm Front-End Developer from Azerbaijan</h3>
 
