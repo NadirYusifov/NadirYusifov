@@ -8,9 +8,4 @@
 
 - 📧 How to reach me **nadiryusifov70@gmail.com**
 
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=NadirYusifov&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=NadirYusifov&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NadirYusifov&theme=github_dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in )
