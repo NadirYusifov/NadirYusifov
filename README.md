@@ -1,6 +1,6 @@
 <h1 align="center">Salam Aleykum I'm Nadir Yusifov</h1>
 
-<h3 align="center">I'm Front-End Developer from Azerbaijan 🇦🇿</h3>
+<h3 align="center">I'm Frontend Developer from Azerbaijan 🇦🇿</h3>
 
 [![](https://visitcount.itsvg.in/api?id=NadirYusifov&icon=2&color=3)](https://visitcount.itsvg.in)
 
