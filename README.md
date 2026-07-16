@@ -4,8 +4,12 @@
 
 [![](https://visitcount.itsvg.in/api?id=NadirYusifov&icon=2&color=3)](https://visitcount.itsvg.in)
 
-- 🗂️ All of my projects are available at <a href="https://github.com/NadirYusifov" target="blank">NadirYusifov</a>
-
+- 🗂️ All of my projects are available at **<a href="https://github.com/NadirYusifov" target="blank">NadirYusifov</a>**
 - 📧 How to reach me **nadiryusifov70@gmail.com**
+- 🌐 My website **https://nadiryusifovportfolio.netlify.app**
+
+<div align="center">
+  - **<a href="">Nadir Yusifov</a>**
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
