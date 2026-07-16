@@ -9,7 +9,7 @@
 - 🌐 My website **https://nadiryusifovportfolio.netlify.app**
 
 <div align="center">
-  - <a href="https://www.linkedin.com/in/nadir-yusifov">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nadir-yusifov">LinkedIn</a>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
